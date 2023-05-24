@@ -1,7 +1,7 @@
 package com.cc.java;
 
 public class Konto {
-    // Instanzvariable kontostand
+    // Private Instanzvariable kontostand
     private int kontostand;
 
     // Konstruktor
